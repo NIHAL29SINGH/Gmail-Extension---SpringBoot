@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 
-=======
 
 
 #  📧 Smart Mail AI – Gmail Extension
@@ -278,4 +276,4 @@ This project is licensed under the MIT License.
 
 
 
->>>>>>> 
+
