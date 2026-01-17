@@ -3,7 +3,7 @@
 =======
 
 
-#  📧 AI Email Reply Generator – Gmail Extension
+#  📧 Smart Mail AI – Gmail Extension
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Java](https://img.shields.io/badge/Java-17+-orange)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-brightgreen)
@@ -12,7 +12,7 @@
   
 
 ## 📌 Project Overview
-AI-Powered Gmail Reply Generator is a Chrome Extension backed by a Spring Boot API that automatically generates professional email replies using Google Gemini AI.
+  Smart Mail AI  is a Chrome Extension backed by a Spring Boot API that automatically generates professional email replies using Google Gemini AI.
 
 It integrates directly inside Gmail and allows users to:
 - Generate AI replies with one click
