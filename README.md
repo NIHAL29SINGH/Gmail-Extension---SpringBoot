@@ -265,10 +265,16 @@ chrome://extensions
 ![Generated Reply](screenshots/generated-reply.png)
 
 ---
+## 👨‍💻 Author
+**Nihal Singh**  
+Built as a personal project for learning and portfolio purposes.
 
+© 2026 Nihal Singh. All rights reserved.
+
+---
 
 ## 📄 License
-This project is licensed under the MIT License.
+This project is licensed under the **MIT License**.
 
 
 
